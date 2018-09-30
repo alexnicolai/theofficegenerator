@@ -1,0 +1,63 @@
+
+
+h1 {
+    font-size: 24pt;
+    color: blue;
+}
+
+.card {
+    text-align: center;
+}
+
+.card-title {
+    font-size: 24px;
+}
+
+.btn-primary {
+    background-color: black;
+    border-color: black;
+    padding: 10px 30px 10px 30px;
+}
+.btn-primary:hover {
+    background-color: black;
+    border-color: black;
+    opacity: .8;
+}
+
+.btn-secondary {
+    background-color: #B40809;
+    border-color: white;
+    padding: 10px 30px 10px 30px;
+} 
+.btn-secondary:hover {
+    background-color: #B40809;
+    border-color: #B40809;
+    opacity: .8;
+}
+
+.navbar-brand {
+    font-size: 32px; 
+}
+
+.upperMargin {
+    margin-top: 150px;
+}
+.upperMargin2 {
+    margin-top: 50px;
+}
+
+footer {
+    margin-top: 200px;
+    text-align: center;
+    font-size: 12px;
+    color: grey;
+}
+
+#resultsBox {
+    display: none;
+    text-align: left;
+}
+#resultsBox .card-header {
+    background-color: black;
+    color: white;
+}
